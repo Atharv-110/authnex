@@ -1,5 +1,5 @@
 const HomePageComponent = () => {
-  return <div>HomePageComponent</div>;
+  return <div className="w-full">HomePageComponent</div>;
 };
 
 export default HomePageComponent;
