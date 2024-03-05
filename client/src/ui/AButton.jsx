@@ -7,7 +7,7 @@ const AButton = (props) => {
       return (
         <button
           onClick={onClick}
-          className="bg-red-400 px-6 py-2 rounded-lg w-full"
+          className="bg-[#674EB1] text-white px-6 py-2 rounded-lg w-full"
         >
           {text}
         </button>
